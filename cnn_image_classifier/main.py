@@ -1,7 +1,7 @@
-from cnn_image_classifier.FileSystemManager import FileSystemManager
-from cnn_image_classifier.DownloadManager import DownloadManager
-from cnn_image_classifier.cnn_model import train, predict
-from cnn_image_classifier.sys_utils import graceful_exit
+from FileSystemManager import FileSystemManager
+from DownloadManager import DownloadManager
+from cnn_model import train, predict
+from sys_utils import graceful_exit
 import logging
 
 

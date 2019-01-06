@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/minh/Private/ML/Cancer/classifying-cancer/cnn_image_classifier/tmp/tensorflow/cnn/model/model.ckpt"
+all_model_checkpoint_paths: "/home/minh/Private/ML/Cancer/classifying-cancer/cnn_image_classifier/tmp/tensorflow/cnn/model/model.ckpt"
